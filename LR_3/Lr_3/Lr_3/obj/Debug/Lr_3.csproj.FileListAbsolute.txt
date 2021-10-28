@@ -1,0 +1,7 @@
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\bin\Debug\Lr_3.exe.config
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\bin\Debug\Lr_3.exe
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\bin\Debug\Lr_3.pdb
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\obj\Debug\Lr_3.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\obj\Debug\Lr_3.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\obj\Debug\Lr_3.exe
+C:\Users\izi89\Desktop\3COURSE\ООП\LR_3\Lr_3\Lr_3\obj\Debug\Lr_3.pdb
